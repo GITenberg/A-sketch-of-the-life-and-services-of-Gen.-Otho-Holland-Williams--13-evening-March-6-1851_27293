@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '32603'
     url: http://www.gutenberg.org/2009/agents/32603
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27293#A-sketch-of-the-life-and-services-of-Gen.-Otho-Holland-Williams--13-evening-March-6-1851
 gutenberg_issued: '2008-11-19'
 gutenberg_type: Text
 identifiers:
